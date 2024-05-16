@@ -37,6 +37,8 @@ nav {
   background-color: black;
   width: 100%;
   top: 305px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 nav ul {
@@ -65,18 +67,20 @@ video {
   background-color: #056b1b5b;
   margin-top: 100px;
   max-width: 75%;
-  height: 50vh;
+  height: 200px;
 }
 
 article {
   margin-bottom: 50px;
   min-height: 60vh;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 article p {
   font-size: 14px;
   font-family: Georgia, "Times New Roman", Times, serif;
-  color: black;
+  color: rgb(8, 1, 1);
   font-style: italic;
   line-height: 1.5;
   margin-top: 40px;
