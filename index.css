@@ -6,7 +6,6 @@
 html body {
   height: 100%;
   margin: 0;
-  padding: 0;
   border-color: black;
   border-style: outset;
   border-width: 6px;
@@ -19,11 +18,9 @@ header {
   background-image: url(./images/header.png);
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
-  padding-top: 1px;
-  padding-bottom: 15px;
-  justify-content: center;
   text-align: center;
+  padding-top: 10px;
+  padding-bottom: 15px;
 }
 
 h1 {
