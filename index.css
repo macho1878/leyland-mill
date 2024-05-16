@@ -67,7 +67,8 @@ video {
   background-color: #056b1b5b;
   margin-top: 100px;
   max-width: 75%;
-  height: 200px;
+  width: 200px;
+  height: 150px;
 }
 
 article {
