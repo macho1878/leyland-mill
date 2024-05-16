@@ -6,15 +6,11 @@
 .ibody {
   width: 100%;
   margin: 0;
-  border-color: black;
-  border-style: outset;
-  border-width: 6px;
   text-align: center;
   background: rgb(84, 84, 83);
 }
 
 .iheader {
-  background-color: darkgreen;
   background-image: url(./images/header.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -34,16 +30,14 @@
 }
 
 .inav {
-  position: absolute;
+  position: relative;
   background-color: black;
   width: 100%;
-  top: 305px;
-  padding-left: 10px;
-  padding-right: 10px;
+  top: 277px;
 }
 
 .inav ul {
-  border-style: outset;
+  border-style: solid;
   border-width: 2px;
   background-color: rgba(10, 10, 10, 0.233);
   border-color: #3baa3d;
@@ -135,6 +129,10 @@ header {
   height: 218px;
 }
 
+/* make class for rest of page nav and use below code
+
+*above needs to be done for header and other elements also :( wish i could javascript RN*
+
 nav {
   position: absolute;
   background-color: black;
@@ -165,3 +163,4 @@ p {
 nav li {
   display: inline-block;
 }
+*/
