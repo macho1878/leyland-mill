@@ -68,7 +68,7 @@ video {
   margin-top: 100px;
   max-width: 75%;
   width: 200px;
-  height: 150px;
+  height: 100px;
 }
 
 article {
@@ -79,14 +79,14 @@ article {
 }
 
 article p {
-  font-size: 14px;
+  font-size: 18px;
   font-family: Georgia, "Times New Roman", Times, serif;
   color: rgb(8, 1, 1);
   font-style: italic;
   line-height: 1.5;
   margin-top: 40px;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
   padding-bottom: 5px;
   word-wrap: break-word;
 }
